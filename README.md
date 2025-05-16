@@ -1,2 +1,2 @@
 # Apache-Web_Docker
-Servidor Web Usando o Apache com o Docker
+Neste projeto o expert utilizou o Docker Compose para executar uma aplicação HTML em um Container Apache.
